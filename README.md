@@ -1,4 +1,4 @@
-# CollisionPigeon
+# Collision Pigeon
 
 The purpose of this technical assessment is to provide you with an opportunity to demonstrate how you implement a solution.  We will be assessing your overall approach to the implementation including, but not limited to, automated testing, design patterns and coding style.
 
